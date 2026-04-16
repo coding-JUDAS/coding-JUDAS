@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ntabozuko
 
-<!--
-**coding-JUDAS/coding-JUDAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Engineer | Python | SQL | ETL Pipelines
 
-Here are some ideas to get you started:
+I build data pipelines and analytical solutions using Python and SQL, with a background in mission-critical systems from the South African Air Force.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (data processing, automation)
+- SQL (data querying, database design)
+- ETL pipelines & data cleaning
+- Machine learning & statistical analysis
+
+## Projects
+- ETL Pipeline Project → [link]
+- Machine Learning Model → [link]
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/ntabozuko-sana
+Email: s220241406@mandela.ac.za
