@@ -11,7 +11,7 @@ I build data pipelines and analytical solutions using Python and SQL, with a bac
 - Machine learning & statistical analysis
 
 ## Projects
-- ETL Pipeline Project → [link]
+- ETL Pipeline Project → https://github.com/coding-JUDAS/job-etl-pipeline
 - Machine Learning Model → [link]
 
 ## Contact
