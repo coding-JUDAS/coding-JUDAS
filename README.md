@@ -1,19 +1,17 @@
-# Hi, I'm Ntabozuko
+### Hi, I'm Ntabozuko 👋
 
-Junior Data Engineer | Python | SQL | ETL Pipelines
+Software Engineer | Java · C# · Python · Systems
 
-I build data pipelines and analytical solutions using Python and SQL, with a background in mission-critical systems from the South African Air Force.
+I build backend and full-stack software, coming from 8 years as an aircraft reconnaissance systems technician in the South African Air Force — diagnosing and repairing mission-critical hardware, sensor, and communications systems under zero-error operational standards. I bring that same disciplined, root-cause approach to writing and debugging code.
 
-## Skills
-- Python (data processing, automation)
-- SQL (data querying, database design)
-- ETL pipelines & data cleaning
-- Machine learning & statistical analysis
+**Currently**
+- 🎓 Completing an Honours in Computer Science & Information Systems (Nelson Mandela University, expected 2026)
+- 🔭 Building an AI research assistant with local LLM orchestration (Ollama, Qwen)
+- 🌱 Working through Spring Professional certification
 
-## Projects
-- ETL Pipeline Project → https://github.com/coding-JUDAS/job-etl-pipeline
-- Machine Learning Model → [link]
+**Stack**
+`Java` `C#` `Python` `SQL` `Spring Boot` `REST APIs` `TorchSharp`
 
-## Contact
-LinkedIn: https://www.linkedin.com/in/ntabozuko-sana
-Email: s220241406@mandela.ac.za
+**Open to:** backend / full-stack developer roles, South Africa or remote
+
+📫 ntabosana@gmail.com | [LinkedIn](https://linkedin.com/in/ntabozuko-sana)
